@@ -12,7 +12,7 @@ A deterministic, memory-bounded geometric framework for navigating prime number 
    - $D_4$: Compensating Imaginary Axis ($Y_2$)
 
 2. **64-Bit Micro-Offset Space Convergence:**
-   Instead of replicating multi-megabyte BigInt objects in RAM, each axis projects modular resonance masks onto a compact 64-bit relative offset domain. Multi-dimensional set intersection ($S(D_1) \cap S(D_2) \cap S(D_3) \cap S(D_4)$) eliminates ~90% of composite coordinates in milliseconds with minimal memory footprint.
+   Instead of replicating multi-megabyte BigInt objects in RAM, each axis projects modular resonance masks onto a compact 64-bit relative offset domain. Multi-dimensional set intersection (S(D_1) \cap S(D_2) \cap S(D_3) \cap S(D_4)) eliminates ~90% of composite coordinates in milliseconds with minimal memory footprint.
 
 3. **Shared Base-Phase Batching:**
    Computes modular phases once per 64-bit product block at the window boundary and distributes them across all four orthogonal dimensions, cutting arbitrary-precision division overhead by 75%.
