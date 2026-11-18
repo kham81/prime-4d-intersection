@@ -34,3 +34,8 @@ A deterministic, memory-bounded geometric framework for navigating prime number 
 
 ```bash
 python prime_4d-d1d2d3d4.py
+Enter a starting anchor expression (e.g., , ) or path to a file containing a large integer.10^502^136279841-1
+
+Press  or  after each step to advance continuously using the newly converged coordinate as the next anchor.Entery
+
+Type  on restart to continue from .resumeprime_search_checkpoint.json
