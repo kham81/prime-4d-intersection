@@ -1,6 +1,6 @@
 # 4-Axis Orthogonal Intersection Architecture ($D_1 \cap D_2 \cap D_3 \cap D_4$) for Prime Coordinate Navigation
 
-A deterministic, memory-bounded geometric framework for navigating prime number coordinates at arbitrary-precision scales (validated up to $10^{41,024,320}$, the scale of the largest known Mersenne prime $M_{136279841} = 2^{136279841}-1$) without relying on analytic Zeta evaluations or heavy cross-lattice heaps.
+A deterministic, memory-bounded geometric framework for navigating prime number coordinates at arbitrary-precision scales (validated up to 10^{41,024,320}, the scale of the largest known Mersenne prime M_{136279841} = 2^{136279841}-1) without relying on analytic Zeta evaluations or heavy cross-lattice heaps.
 
 ## Core Architecture
 
